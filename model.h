@@ -6,6 +6,10 @@ class Model
 {
 public:
     Model();
+
+private:
+    int width;
+    int windowWidth;
 };
 
 #endif // MODEL_H
